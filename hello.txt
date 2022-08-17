@@ -13,4 +13,4 @@ hello Git!  hello hollysys!
 hello Git!  hello hollysys!
 hello Git!  hello hollysys!
 hello Git!  hello hollysys!  master branch
-hello Git!  hello hollysys!
+hello Git!  hello hollysys!  hot-fix-test
